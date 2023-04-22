@@ -1,4 +1,4 @@
-package com.hs.bt;
+package com.hs.tree;
 
 public class Node {
 	public int data;

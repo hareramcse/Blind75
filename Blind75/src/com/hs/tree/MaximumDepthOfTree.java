@@ -1,4 +1,4 @@
-package com.hs.bt;
+package com.hs.tree;
 
 class MaximumDepthOfTree {
 	public int maxDepth(Node root) {
